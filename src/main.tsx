@@ -6,7 +6,7 @@ import {
 } from 'react-router-dom'
 import 'uno.css'
 import App from '@/App'
-import LoadApp from '@/components/LoadApp'
+import LoadApp from '@/components/LoadApp/LoadApp'
 
 const router = createHashRouter([
   {
